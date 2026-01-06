@@ -3,7 +3,6 @@
 
 I'm a **Data Analyst Fresher** focused on **Data Analysis, Business Intelligence, and Dashboarding**.  
 I enjoy transforming **raw data into meaningful insights and interactive visualizations** that support business decision-making.
-
 Currently building hands-on projects using **Python, SQL, Excel, Power BI, and Tableau** while continuously improving my analytical skills.
 
 ---
