@@ -56,7 +56,7 @@ Currently building hands-on projects using **Python, SQL, Excel, Power BI, and T
 ## 🤝 Connect with Me
  
 🔗 **LinkedIn:** https://www.linkedin.com/in/amudha-kumar-238303328  
-📧 **Email:** amudhakumar1111@gmail.com
 
-🙏 **Thank you for reviewing my profile!**  
+
+## 🙏 Thank you for reviewing my profile!  
 I’m always open to learning 📘 and contributing on data-driven projects that create real impact 📊
