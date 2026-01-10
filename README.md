@@ -53,10 +53,15 @@ Currently building hands-on projects using **Python, SQL, Excel, Power BI, and T
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amudha-K&layout=compact&theme=tokyonight)
 
+---
+
 ## 🤝 Connect with Me
  
-🔗 **LinkedIn:** https://www.linkedin.com/in/amudha-kumar-238303328  
+🔗 <a href="https://www.linkedin.com/in/amudha-kumar-238303328" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+---
 
 ## 🙏 Thank you for reviewing my profile!  
 I’m always open to learning 📘 and contributing on data-driven projects that create real impact 📊
