@@ -57,8 +57,10 @@ Currently building hands-on projects using **Python, SQL, Excel, Power BI, and T
 
 ## 🤝 Connect with Me
  
-🔗 <a href="https://www.linkedin.com/in/amudha-kumar-238303328" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+🔗 <a href="https://www.linkedin.com/in/amudha-kumar-238303328" 
+   style="color:#0A66C2; font-weight:600; text-decoration:none;" 
+   target="_blank">
+LinkedIn
 </a>
 
 ---
